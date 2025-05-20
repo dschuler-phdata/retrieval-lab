@@ -5,7 +5,6 @@ dependencies:
   - langchain=*
   - langchain-experimental=*
   - langchain-text-splitters=*
-  - llama-index=*
   - snowflake-ml-python=*
   - snowflake-snowpark-python=*
   - snowflake.core=*
