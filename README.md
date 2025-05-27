@@ -3,7 +3,7 @@
 ## Required Setup
 
 ### 1. Create a Snowflake Trial Account
-Create a new trial account [here](https://signup.snowflake.com), selecting 'Enterprise' as the Snowflake edition and 'Azure' as the cloud provider.
+Create a new trial account [here](https://signup.snowflake.com), selecting 'Enterprise' as the Snowflake edition 'Azure' as the cloud provider, and 'East US-2' as the region. Note that it may take a few minutes to get teh email from Snowflake to activate the account.
 
 ### 2. Create API Integration for GitHub
 Once in the Snowsight UI for your trial account, click `+ Create` and choose `SQL Worksheet`. In the worksheet, run the following code to enable an integration with GitHub:
