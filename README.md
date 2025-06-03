@@ -17,11 +17,12 @@ create or replace api integration RETRIEVAL_LAB_INTEGRATION
 ```
 
 ### 3. Link this Repository
+- Go back to the home page
 - Click `+ Create`, choose `Notebook`, then `From Git Repository`
 - on `File location in repository` click, `Create Git Repository`
 - Paste this repo URL (https://github.com/dschuler-phdata/retrieval-lab) into the Repository URL field
-- Select the newly created API Integration
+- Select the `RETRIEVAL_LAB_INTEGRATION` from the API Integration dropdown
 - Click `+ Database` and name it `RETRIEVAL_LAB`
 - Click `Create`
-- Select the `retrieval-lab.ipynb` file
+- Select the `retrieval-lab.ipynb` file once the repository loads
 - This will send you back to the notebook creatation view where you can just click `Create` to finish the connection process
