@@ -24,5 +24,5 @@ create or replace api integration RETRIEVAL_LAB_INTEGRATION
 - Select the `RETRIEVAL_LAB_INTEGRATION` from the API Integration dropdown
 - Click `+ Database` and name it `RETRIEVAL_LAB`
 - Click `Create`
-- Select the `retrieval-lab.ipynb` file once the repository loads
+- This will bring up the 'Select Notebook File in Repository' view. Select the `retrieval-lab.ipynb` file once the repository loads
 - This will send you back to the notebook creatation view where you can just click `Create` to finish the connection process
